@@ -1,1 +1,1 @@
-# sky-manoa.github.io.
+# skylite-manoa.github.io.
