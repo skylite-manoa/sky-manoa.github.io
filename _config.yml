@@ -1,1 +1,8 @@
-theme: jekyll-theme-cayman
+title: UH Manoa GYM Schedule
+description: GYM Schedule system for the UH Community
+google_analytics: 
+show_downloads: false
+theme: jekyll-theme-tactile
+
+gems:
+  - jekyll-mentions
