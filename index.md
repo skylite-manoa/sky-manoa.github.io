@@ -10,3 +10,7 @@ Warrior Scheduler is a Meteor scheduling application that allows students and fa
 
 # Home Page
 ![](images/home_page.png)
+
+# Milestone 1
+![](images/add-workout_screenshot.png)
+![](images/personal-page_screenshot.png)
