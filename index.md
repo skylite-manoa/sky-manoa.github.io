@@ -12,6 +12,15 @@ Warrior Scheduler is a Meteor scheduling application that allows students and fa
 # Home Page
 ![](images/home_page.png)
 
-# Milestone 1
-![](images/add-workout_screenshot.png)
-![](images/personal-page_screenshot.png)
+# Development History
+
+## Milestone 1
+
+This milestone started on April 6, 2017 and ended on April 13, 2017.
+
+The goal of Milestone 1 was to create the GUI using meteor.
+
+Mockups for the following pages were implemented during M1:
+
+<img width="200px" src="images/add-workout_screenshot.png"/>
+<img width="200px" src="images/personal-page_screenshot.png"/>
