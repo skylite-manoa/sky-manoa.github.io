@@ -25,6 +25,7 @@ Warrior Scheduler is a Meteor scheduling application that allows students and fa
 ## Milestone 1
 
 This milestone started on April 6, 2017 and ended on April 13, 2017.
+
 The goal of Milestone 1 was to create the GUI using meteor.
 Mockups for the following pages were implemented during M1:
 
@@ -34,5 +35,8 @@ Mockups for the following pages were implemented during M1:
 <img width="400px" src="images/personal-page_screenshot.png"/>
 <img width="400px" src="images/list_screenshot.png"/>
 
+Milestone 1 was implemented as [warrior-scheduler GitHub Milestone M1](https://github.com/skylite-manoa/warrior-scheduler/milestone/1)::
+
+<img src="images/M1.png"/>
 
 ## Milestone 2
