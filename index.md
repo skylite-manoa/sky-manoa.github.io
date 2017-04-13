@@ -3,6 +3,7 @@
 * [Home Page](#home-page)
 * [Development history](#development-history)
   * [Milestone 1](#milestone-1)
+  * [Milestone 2](#milestone-2)
 
 # About Warrior Scheduler
 
