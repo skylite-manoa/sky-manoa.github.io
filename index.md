@@ -43,6 +43,9 @@ Milestone 1 consisted of five issues, and progress was managed via the [warrior-
 
 <img src="images/project1.png"/>
 
+The program was successfully deploy on galaxy (https://galaxy.meteor.com/app/warrior-scheduler.meteorapp.com)
+<img scr="images/M1depoly.png"/>
+
 ## Milestone 2
 This milestone started on April 14, 2017 and is ongoing.
 
