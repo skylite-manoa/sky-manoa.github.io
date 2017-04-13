@@ -1,6 +1,7 @@
 # Table of contents
 * [About Warrior Scheduler](#about-warrior-scheduler)
 * [Home Page](#home-page)
+* [Milestone 1](#milestone-1)
 
 # About Warrior Scheduler
 
