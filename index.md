@@ -1,7 +1,8 @@
 # Table of contents
 * [About Warrior Scheduler](#about-warrior-scheduler)
 * [Home Page](#home-page)
-* [Milestone 1](#milestone-1)
+* [Development history](#development-history)
+  * [Milestone 1](#milestone-1)
 
 # About Warrior Scheduler
 
@@ -24,3 +25,10 @@ Mockups for the following pages were implemented during M1:
 
 <img width="200px" src="images/add-workout_screenshot.png"/>
 <img width="200px" src="images/personal-page_screenshot.png"/>
+
+
+## Milestone 2
+
+## Milestone 3
+
+## Milestone 4
