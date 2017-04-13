@@ -32,6 +32,7 @@ Mockups for the following pages were implemented during M1:
 <img width="400px" src="images/updated_homepage.png"/>
 <img width="400px" src="images/add-workout_screenshot.png"/>
 <img width="400px" src="images/personal-page_screenshot.png"/>
+<img width="400px" src="images/list_screenshot.png"/>
 
 
 ## Milestone 2
