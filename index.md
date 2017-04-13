@@ -43,7 +43,7 @@ Milestone 1 consisted of five issues, and progress was managed via the [warrior-
 
 <img src="images/project1.png"/>
 
-The program was successfully deploy on [galaxy] (https://galaxy.meteor.com/app/warrior-scheduler.meteorapp.com)
+The program was successfully deployed on [galaxy](https://galaxy.meteor.com/app/warrior-scheduler.meteorapp.com)
 <img scr="images/M1deploy.png"/>
 
 ## Milestone 2
