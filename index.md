@@ -1,5 +1,6 @@
 # Table of contents
 * [About Warrior Scheduler](#about-warrior-scheduler)
+* [Home Page](#home-page)
 
 # About Warrior Scheduler
 
@@ -7,5 +8,5 @@ Warrior Scheduler is a Meteor scheduling application that allows students and fa
 
 ![](images/schedule_page_example.png)
 
-# Home page
+# Home Page
 ![](images/home_page.png)
