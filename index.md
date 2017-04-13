@@ -23,8 +23,8 @@ The goal of Milestone 1 was to create the GUI using meteor.
 
 Mockups for the following pages were implemented during M1:
 
-<img width="200px" src="images/add-workout_screenshot.png"/>
-<img width="200px" src="images/personal-page_screenshot.png"/>
+<img width="400px" src="images/add-workout_screenshot.png"/>
+<img width="400px" src="images/personal-page_screenshot.png"/>
 
 
 ## Milestone 2
