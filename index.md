@@ -35,8 +35,12 @@ Mockups for the following pages were implemented during M1:
 <img width="400px" src="images/personal-page_screenshot.png"/>
 <img width="400px" src="images/list_screenshot.png"/>
 
-Milestone 1 was implemented as [warrior-scheduler GitHub Milestone M1](https://github.com/skylite-manoa/warrior-scheduler/milestone/1)::
+Milestone 1 was implemented as [warrior-scheduler GitHub Milestone M1](https://github.com/skylite-manoa/warrior-scheduler/milestone/1):
 
 <img src="images/M1.png"/>
+
+Milestone 1 consisted of five issues, and progress was managed via the [warrior-scheduler GitHub Project M1](https://github.com/skylite-manoa/warrior-scheduler/projects/2):
+
+<img src="images/project1.png"/>
 
 ## Milestone 2
