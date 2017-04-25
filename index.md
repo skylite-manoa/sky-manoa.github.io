@@ -55,3 +55,14 @@ The goal of Milestone 2 is to update all of the mockup pages and some new implem
 Milestone 2 was implemented as [warrior-scheduler GitHub Milestone M2](https://github.com/skylite-manoa/warrior-scheduler/milestone/2):
 
 Milestone 2 consisted of five issues, and progress was managed via the [warrior-scheduler GitHub Project M2](https://github.com/skylite-manoa/warrior-scheduler/projects/3):
+
+# Updated Homepage
+
+# Added Calender and About pages
+
+# Added a footer
+
+#
+
+
+
