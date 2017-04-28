@@ -20,7 +20,7 @@ To log in you must use your UH login.
 
 After logging in, the services will become available.
 
-![](images/home_page.png)
+![](images/home.png)
 
 Use the calendar to add in gym events and workouts.
 
