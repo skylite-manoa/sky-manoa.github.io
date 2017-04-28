@@ -1,5 +1,6 @@
 # Table of contents
 * [About Warrior Scheduler](#about-warrior-scheduler)
+  * [User Guide](#user-guide)
 * [Home Page](#home-page)
 * [Development history](#development-history)
   * [Milestone 1](#milestone-1)
@@ -9,8 +10,26 @@
 
 Warrior Scheduler is a Meteor scheduling application that allows students and faculty keep track of how busy the gym will be at any given time. A user will simply input the time they wish to go to the gym and it will appear on a calendar for everyone to see. Users will also be able to keep track of the amount of weights they use for each machine.
 
+## User Guide
 
-![](images/schedule_page_example.png)
+![](screenshots/landing.png)
+
+To log in you must use your UH login.
+
+![](screenshots/cas.png)
+
+After logging in, the services will become available.
+
+![](screenshots/home_page.png)
+
+Use the calendar to add in gym events and workouts.
+
+![](screenshots/calendar.png)
+
+Fill out your personal information by clicking on the Personal tab.
+
+![](screenshots/personal.png)
+
 
 
 
